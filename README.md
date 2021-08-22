@@ -1,21 +1,16 @@
 ### Hi there, I'm Nikolas <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolas-virionis&theme=dark" />
+- 😄 18 year old from Brazil <img src="https://acegif.com/wp-content/gif/brazilian-flag-14.gif" width = "20px">
+- 👩‍💻 I speak Portuguese and English
 - 🌱 I’m currently learning _Javascript, Java and Python_
-- 😄 18 year old from Brazil
-- ⚡ Fun fact: I was going to be a production engineer but about 3 years ago i preferred the light side of the force
+- ⚡ Fun fact: I was going to be a production engineer but <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+              about 3 years ago i chose the light side of the force
 - 💗 In love with coding
 - 📖 Inspirational quote:
   >  — Confucius<br>
   > Learn as though you would never be able to master it,<br>
   > hold it as though you would be in fear of losing it
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolas-virionis&theme=dark" />
-
-
-<!--- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...-->
+<br>
+<br>
+<sup><font size="+6">- LinkedIn Profile:</font></sup> <sub><a style="align-items: center" href="https://www.linkedin.com/in/nikolas-barcha-virionis-b71228199/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width = "35px"></a></sub>
