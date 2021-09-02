@@ -13,4 +13,5 @@
   > Learn as though you would never be able to master it,<br>
   > hold it as though you would be in fear of losing it
 <br>
+
 <a style="align-items: center" href="https://www.linkedin.com/in/nikolas-barcha-virionis-b71228199/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width = "35px"></a></sub>
