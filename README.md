@@ -5,7 +5,7 @@
 - 👩‍💻 I speak Portuguese and English<br>
 - 🌱 I’m currently learning _Javascript, Java and Python_<br>
 - ⚡ Fun fact: I was going to be a production engineer but <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-              about 3 years ago i chose the light side of the force<br>
+              about 3 years ago i chose the best profession out there<br>
 - 💗 In love with coding<br>
 - 📖 Inspirational quote:<br>
   > — Confucius<br>
