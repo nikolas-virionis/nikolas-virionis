@@ -4,7 +4,7 @@
 - 😄 18 year old from Brazil<img src="https://acegif.com/wp-content/gif/brazilian-flag-14.gif" width = "20px"><br>
 - 👩‍💻 I speak Portuguese and English<br>
 - 🌱 I’m currently learning _Javascript, Java and Python_<br>
-- ⚡ Fun fact: I was going to be a production engineer but at <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- ⚡ Fun fact: I was going to be a production engineer but <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;at
               about 15 years old i chose the best profession out there<br>
 - 💗 In love with coding<br>
 - 📖 Inspirational quote:<br>
