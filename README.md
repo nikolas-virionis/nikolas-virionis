@@ -13,4 +13,4 @@
   > hold it as though you would be in fear of losing it
 <br>
 <a style="align-items: center; float: left;" href="https://www.linkedin.com/in/nikolas-barcha-virionis-b71228199/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width = "35px"></a></sub>
-<img align="right" float="right"  src="https://github-readme-stats.vercel.app/api?username=nikolas-virionis&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=86400&theme=algolia" />
+<img align="right" float="right"  src="https://github-readme-stats.vercel.app/api?username=nikolas-virionis&count_private=true&show_icons=true&theme=algolia" />
