@@ -4,7 +4,7 @@
 - 😄 18 year old from Brazil<img src="https://acegif.com/wp-content/gif/brazilian-flag-14.gif" width = "20px"><br>
 - 👩‍💻 I speak Portuguese and English<br>
 - 🌱 I’m currently learning _Javascript, Java and Python_<br>
-- ⚡ Fun fact: My commit chart from 08/21 to the end of 2021 looks like a minecraft creeper sleeping<!--I was going to be a production engineer but <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;at
+- ⚡ Fun fact: My commit chart, on dark theme, from 08/21 to the end of 2021 looks like a minecraft creeper sleeping<!--I was going to be a production engineer but <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;at
               about 15 years old i chose the best profession out there--><br>
 - 💗 In love with coding<br>
 - 📖 Inspirational quote:<br>
