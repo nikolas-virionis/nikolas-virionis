@@ -1,5 +1,5 @@
 ### Hi there, I'm Nikolas <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolas-virionis&theme=algolia" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolas-virionis&layout=compact&langs_count=16&theme=algolia" />
 
 - 😄 18 year old from Brazil<img src="https://acegif.com/wp-content/gif/brazilian-flag-14.gif" width = "20px"><br>
 - 👩‍💻 I speak Portuguese and English<br>
