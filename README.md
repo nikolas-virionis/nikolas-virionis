@@ -7,7 +7,7 @@
 - ⚡ Fun fact: My commit chart, on dark theme, from august/2021 to december/2021 looks like a minecraft creeper laying down<!--I was going to be a production engineer but <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;at
               about 15 years old i chose the best profession out there--><br>
 - 💗 In love with coding<br>
-- 😎 An awesome experience i've been having, in my career, is having 3 packages published in oficial package managers. They are the top 3 repositories pinned down below<br>
+- 😎 An awesome experience I've been having, in my career, is having 3 packages published in oficial package managers. They are the top 3 repositories pinned down below<br>
 - 📖 Inspirational quote:<br>
   > — Confucius<br>
   > Learn as though you would never be able to master it,<br>
