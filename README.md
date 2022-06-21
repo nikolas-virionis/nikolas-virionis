@@ -31,4 +31,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" width="52" alt="jira logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
 </div>
+<br><br>
 
+![snake gif](https://github.com/nikolas-virionis/nikolas-virionis/blob/output/github-contribution-grid-snake.gif)
