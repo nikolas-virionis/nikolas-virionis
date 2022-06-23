@@ -4,9 +4,10 @@
 - 😄 18 year old from Brazil <img src="https://acegif.com/wp-content/gif/brazilian-flag-14.gif" width = "20px" height="20px"><br>
 - 👩‍💻 I speak Portuguese and English<br>
 - 🌱 I’m currently learning mostly _Python and Pyspark_ but also Javascript and Java<br>
-- ⚡ Fun fact: My commit chart, on dark theme, from august/2021 to december/2021 looks like a minecraft creeper laying down<!--I was going to be a production engineer but <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;at
-              about 15 years old i chose the best profession out there--><br>
-- 💗 In love with coding<br>
+- ⚡ Fun fact: My commit chart, on dark theme, from august/2021 to december/2021 looks like a minecraft creeper laying down
+<!--I was going to be a production engineer but <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;at
+              about 15 years old i chose the best profession out there<br>
+- 💗 In love with coding<br>-->
 - 😎 An awesome experience I've been having, in my career, is having 3 packages published in oficial package managers. They are the top 3 repositories pinned down below<br>
 - 📖 Inspirational quote:<br>
   > — Confucius<br>
