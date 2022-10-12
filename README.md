@@ -1,7 +1,7 @@
 ### Hi there, I'm Nikolas <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width = "30px" height="30px">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolas-virionis&layout=compact&langs_count=16&theme=algolia" />
 
-- 😄 18 year old from Brazil <img src="https://acegif.com/wp-content/gif/brazilian-flag-14.gif" width = "20px" height="20px"><br>
+- 😄 19 year old from Brazil <img src="https://acegif.com/wp-content/gif/brazilian-flag-14.gif" width = "20px" height="20px"><br>
 - 👩‍💻 I speak Portuguese and English<br>
 - 🌱 I’m currently learning mostly _Python and Pyspark_ but also Javascript and Java<br>
 - ⚡ Fun fact: My commit chart, on dark theme, from august/2021 to december/2021 looks like a minecraft creeper laying down
