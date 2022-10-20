@@ -3,6 +3,7 @@
 
 - 😄 19 year old from Brazil <img src="https://acegif.com/wp-content/gif/brazilian-flag-14.gif" width = "20px" height="20px"><br>
 - 👩‍💻 I speak Portuguese and English<br>
+- 💼 At present, I am working as a Big Data Engineer, using the Python Framework PySpark to perform distributed data processing
 - 🌱 I’m currently learning mostly _Python and Pyspark_ but also Javascript and Java<br>
 - ⚡ Fun fact: My commit chart, on dark theme, from august/2021 to december/2021 looks like a minecraft creeper laying down
 <!--I was going to be a production engineer but <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;at
