@@ -1,10 +1,9 @@
 ### Hi there, I'm Nikolas <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width = "30px" height="30px">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolas-virionis&layout=compact&langs_count=16&theme=algolia" />
 
-- 😄 20 year old from Brazil <img src="https://acegif.com/wp-content/gif/brazilian-flag-14.gif" width = "20px" height="20px"><br>
+- 😄 21 year old from Brazil <img src="https://acegif.com/wp-content/gif/brazilian-flag-14.gif" width = "20px" height="20px"><br>
 - 👩‍💻 I speak Portuguese and English<br>
-- 💼 At present, I am working as a Big Data Engineer, using the Python Framework PySpark to perform distributed data processing
-- 🌱 I’m currently learning mostly _Python and Pyspark_ but also Javascript and Java<br>
+- 💼 At present, I am working as a Data Engineer at the biggest bank in Latim America, using the Python Framework PySpark to perform distributed data processing
 - ⚡ Fun fact: My commit chart, on dark theme, from august/2021 to december/2021 looks like a minecraft creeper laying down
 <!--I was going to be a production engineer but <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;at
               about 15 years old i chose the best profession out there<br>
