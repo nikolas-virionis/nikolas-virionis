@@ -3,12 +3,12 @@
 
 - 😄 21 year old from Brazil <img src="https://acegif.com/wp-content/gif/brazilian-flag-14.gif" width = "20px" height="20px"><br>
 - 👩‍💻 I speak Portuguese and English<br>
-- 💼 At present, I am working as a Data Engineer at the biggest bank in Latin America, using the Python Framework PySpark to perform distributed data processing
+- 💼 Since may 2024, I am working as a Data Engineer at the biggest bank in Latin America, using the Python Framework PySpark to perform distributed data processing
 - ⚡ Fun fact: My commit chart, on dark theme, from august/2021 to december/2021 looks like a minecraft creeper laying down
 <!--I was going to be a production engineer but <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;at
               about 15 years old i chose the best profession out there<br>
 - 💗 In love with coding<br>-->
-- 😎 An awesome experience I've been having, in my career, is having 3 packages published in oficial package managers. They are the top 3 repositories pinned down below<br>
+<!--- 😎 An awesome experience I've been having, in my career, is having 3 packages published in oficial package managers. They are the top 3 repositories pinned down below<br>-->
 - 📖 Inspirational quote:<br>
   > — Confucius<br>
   > Learn as though you would never be able to master it,<br>
@@ -21,7 +21,6 @@
 -->
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="52" alt="amazonwebservices logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
